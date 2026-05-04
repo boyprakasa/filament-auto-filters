@@ -1,6 +1,10 @@
 # Filament Auto Filters
 
-Automatic table filters for [FilamentPHP](https://filamentphp.com/) **v3, v4, and v5** based on your column definitions. Stop writing repetitive filter code — just define your columns and get smart filters for free.
+<p align="center">
+  <img src="./screenshot.png" alt="Filament Auto Filters — auto-generated filter panel for a Filament resource" width="100%">
+</p>
+
+> Automatic table filters for [FilamentPHP](https://filamentphp.com/) **v3, v4, and v5** based on your column definitions. Stop writing repetitive filter code — just define your columns and get smart filters for free.
 
 Single codebase across all three Filament major versions — same trait, same API.
 
